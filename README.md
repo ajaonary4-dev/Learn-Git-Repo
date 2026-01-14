@@ -14,4 +14,4 @@ I will learn how to use commands such as: git init, git add, git commit...
 6 - add files to git so they can be tracked
 6a - git add <file> - adds new file(untracked)
 6b - git add . - adds all files to track(modified and untracked)
-
+7 - git commit -m - saves changes on local computer only
