@@ -15,3 +15,5 @@ I will learn how to use commands such as: git init, git add, git commit...
 6a - git add <file> - adds new file(untracked)
 6b - git add . - adds all files to track(modified and untracked)
 7 - git commit -m - saves changes on local computer only -First -m is title and Second -m is short description
+8 - Create SSH key and link it to github: ssh-keygen -t rsa -b 4096 -C "email address"
+8a - display ssh-key - cat key name. File is found .user/.ssh file
